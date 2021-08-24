@@ -20,6 +20,12 @@
     .nav-mobile__icon-menu{
         display: block;
     }
+    .container__content{
+        padding-top: 3px;
+    }
+    .mobile-category{
+        display: block;
+    }
 }
 /* tablet */
 @media (min-width: 740px) and (max-width:1023px){
@@ -58,5 +64,11 @@
     }
     .row.sm-gutter.container__product-in-store {
         margin: 0;
+    }   
+    .header__cart-notify{
+        width: 300px;
+    }
+    .footer__container {
+        padding: 10px;
     }
 }
