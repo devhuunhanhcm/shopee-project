@@ -1250,6 +1250,7 @@
 .nav-mobile__icon-menu{
     width: 80px;
     cursor: pointer;
+    display: none;
 }
 
 .nav-mobile__icon{
