@@ -31,6 +31,9 @@
         width: 100px;
         text-align: right;
     }
+    .pagination___item {
+        margin: 0 20px;
+    }
     
 }
 /* mobile */
@@ -40,5 +43,20 @@
     }
     .header__search-cart{
         width: 100px;
+    }
+    .header__cart-notify{
+        width: 360px;
+    }
+    .pagination___item {
+        margin: 0;
+    }
+    .pagination___item-link{
+        font-size: 1.6rem;
+        min-width: 30px;
+        height: 25px;
+        line-height: 25px;
+    }
+    .row.sm-gutter.container__product-in-store {
+        margin: 0;
     }
 }
