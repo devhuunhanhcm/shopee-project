@@ -133,11 +133,11 @@ html{
     padding
     :30px;
 }
+.footer__app-download-heading,
 .footer__heading{
     font-size:1.4rem;
     text-transform: uppercase;
     color: #777;
-
 }
 
 .footer__list{

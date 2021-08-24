@@ -26,6 +26,18 @@
     .mobile-category{
         display: block;
     }
+    .footer__app-download-heading{
+        text-align: center;
+    }
+    .footer__download{
+        justify-content: center;
+    }
+    .footer__app-download-link {
+        text-decoration: none;
+        color: transparent;
+        display: block;
+        padding: 8px;
+    }
 }
 /* tablet */
 @media (min-width: 740px) and (max-width:1023px){
@@ -71,4 +83,5 @@
     .footer__container {
         padding: 10px;
     }
+   
 }
