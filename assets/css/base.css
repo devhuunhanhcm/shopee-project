@@ -8,6 +8,7 @@
     --header-heigth: 120px;
     --nav-heigth: 40px;
     --header-search-heigth:calc(var(--header-heigth) - var(--nav-heigth));
+    --height-sort-bar: 46px;
 }
 *{
     box-sizing: inherit;
